@@ -12,6 +12,13 @@ The loss value of 0.5 and accuracy of 0.8381 has been achieved which gives good 
 6)pandas==0.22.0</br>
 7)tensorflow=1.x</br>
 
+<h2>There are many problem for nepali_captioning:</h2>
+1)There is equal chance of having a faulty translaton for 40 thousand sentence we are using in nepali captions.</br>
+2)There is no trusted and processed globe text file for nepali.</br>
+3)As nepali has 36 fundamental latters with different notation(aakar,ukar) prediciton is much more difficult.</br>
+4)Nepali grammar is more complex, it comprises with more rules that should be taken care for like aadhar etc</br>
+As, this is probably first nepali captioning system. We, tried our best for good prediction.</br>
+
 <h2>References</h2>
 [1] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan Show and Tell: A Neural Image Caption Generator</br>
 [2] M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artificial Intelligence Research, Volume 47, pages 853-899 http://www.jair.org/papers/paper3994.html</br>
