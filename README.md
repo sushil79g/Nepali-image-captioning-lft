@@ -19,6 +19,15 @@ The loss value of 0.5 and accuracy of 0.8381 has been achieved which gives good 
 4)Nepali grammar is more complex, it comprises with more rules that should be taken care for like aadhar etc</br>
 As, this is probably first nepali captioning system. We, tried our best for good prediction.</br>
 
+<h2>Examples</h2>
+
+<img src='https://user-images.githubusercontent.com/17825243/53392440-7d968a80-39c1-11e9-9c4d-1a098952112a.JPG'>
+
+<img src='https://user-images.githubusercontent.com/17825243/53392441-7d968a80-39c1-11e9-88ec-4358889acd2f.JPG'>
+
+<img src='https://user-images.githubusercontent.com/17825243/53392443-7e2f2100-39c1-11e9-97d7-b7ccac593ad4.JPG'>
+
+
 <h2>References</h2>
 [1] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan Show and Tell: A Neural Image Caption Generator</br>
 [2] M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artificial Intelligence Research, Volume 47, pages 853-899 http://www.jair.org/papers/paper3994.html</br>
