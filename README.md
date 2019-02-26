@@ -20,9 +20,13 @@ The loss value of 0.5 and accuracy of 0.8381 has been achieved which gives good 
 As, this is probably first nepali captioning system. We, tried our best for good prediction.</br>
 
 <h2>Examples</h2>
-![miss_nepal](https://user-images.githubusercontent.com/17825243/53392440-7d968a80-39c1-11e9-9c4d-1a098952112a.JPG)
-![mountains](https://user-images.githubusercontent.com/17825243/53392441-7d968a80-39c1-11e9-88ec-4358889acd2f.JPG)
-![rajesh_hamal](https://user-images.githubusercontent.com/17825243/53392443-7e2f2100-39c1-11e9-97d7-b7ccac593ad4.JPG)
+
+<img src='https://user-images.githubusercontent.com/17825243/53392440-7d968a80-39c1-11e9-9c4d-1a098952112a.JPG'>
+
+<img src='https://user-images.githubusercontent.com/17825243/53392441-7d968a80-39c1-11e9-88ec-4358889acd2f.JPG'>
+
+<img src='https://user-images.githubusercontent.com/17825243/53392443-7e2f2100-39c1-11e9-97d7-b7ccac593ad4.JPG'>
+
 
 <h2>References</h2>
 [1] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan Show and Tell: A Neural Image Caption Generator</br>
